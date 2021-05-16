@@ -1562,6 +1562,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &481126173
 GameObject:
   m_ObjectHideFlags: 0
@@ -1657,6 +1658,8 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of 96ec0fc (3d kit)
 =======
 >>>>>>> parent of 96ec0fc (3d kit)
 =======
